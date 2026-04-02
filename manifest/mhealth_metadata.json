@@ -1,0 +1,7 @@
+{
+    "dataset": "mHealth",
+    "sampling_rate": 20,
+    "window_size": 200,
+    "null_class_handling": "removed (label 0 excluded)",
+    "channels": 23
+}
