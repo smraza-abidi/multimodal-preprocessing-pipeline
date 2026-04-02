@@ -1,0 +1,25 @@
+paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  sample: submission_sample
+
+subset:
+  eeg_subjects: [1, 2]
+  eeg_runs: [4, 8, 12]
+  ecg_records: 300
+
+har:
+  target_sampling_rate: 20
+  window_pretrain_sec: 10
+  window_supervised_sec: 5
+  overlap: 0.5
+
+eeg:
+  sampling_rate: 160
+  window_sec: 4
+  channels: "all"
+
+ecg:
+  sampling_rate: 100
+  leads: 12
