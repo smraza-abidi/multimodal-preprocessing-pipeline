@@ -329,7 +329,7 @@ def process_har():
     # ------------------------------
     import json
 
-    manifest = {
+    har_metadata = {
         "datasets": ["PAMAP2", "WISDM"],
         "sampling_rate": 20,
         "window_size": 200,
@@ -346,8 +346,9 @@ def process_har():
     }
 
     # Save Metadata (.JSON)
-    with open("data/processed/manifest.json", "w") as f:
-        json.dump(manifest, f, indent=4)
+    os.makedirs("manifest", exist_ok=True)
+    with open("manifest/har_metadata.json", "w") as f:
+        json.dump(har_metadata, f, indent=4)
 
     # --------------------------
     # STEP-8: Validation Report
