@@ -185,5 +185,7 @@ if __name__ == "__main__":
     np.save("data/processed/y_ecg.npy", y_ecg)
 
     # Save Metadata (.JSON)
-    with open("data/processed/ecg_metadata.json", "w") as f:
+    os.makedirs("manifest", exist_ok=True)
+    
+    with open("manifest/ecg_metadata.json", "w") as f:
         json.dump(meta_ecg, f, indent=4)
