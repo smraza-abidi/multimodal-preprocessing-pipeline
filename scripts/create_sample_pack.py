@@ -25,4 +25,11 @@ np.save("sample_pack/X_ecg_sample.npy", X_ecg[:100])
 y_ecg = np.load("data/processed/y_ecg.npy", allow_pickle=True)
 np.save("sample_pack/y_ecg_sample.npy", y_ecg[:100])
 
+# mhealth
+X_m = np.load("data/processed/X_mhealth.npy", allow_pickle=True)
+np.save("sample_pack/X_mhealth_sample.npy", X_m[:100])
+
+y_m = np.load("data/processed/y_mhealth.npy", allow_pickle=True)
+np.save("sample_pack/y_mhealth_sample.npy", y_m[:100])
+
 print("Sample pack created!")
