@@ -1,0 +1,92 @@
+[
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 3,
+        "onset": 84
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 2,
+        "onset": 250
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 3,
+        "onset": 416
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 2,
+        "onset": 582
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 2,
+        "onset": 748
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 3,
+        "onset": 914
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 3,
+        "onset": 1080
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 2,
+        "onset": 1246
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 2,
+        "onset": 1412
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 3,
+        "onset": 1578
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 3,
+        "onset": 1744
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 2,
+        "onset": 1910
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 3,
+        "onset": 2076
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 2,
+        "onset": 2242
+    },
+    {
+        "subject": 1,
+        "run": 12,
+        "event": 3,
+        "onset": 2408
+    }
+]

@@ -1,0 +1,2130 @@
+[
+    {
+        "patient_id": 15709,
+        "record_id": 1,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15709,
+        "record_id": 1,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15709,
+        "record_id": 1,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15709,
+        "record_id": 1,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15709,
+        "record_id": 1,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15709,
+        "record_id": 1,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15709,
+        "record_id": 1,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15709,
+        "record_id": 1,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13243,
+        "record_id": 2,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13243,
+        "record_id": 2,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13243,
+        "record_id": 2,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13243,
+        "record_id": 2,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13243,
+        "record_id": 2,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13243,
+        "record_id": 2,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13243,
+        "record_id": 2,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13243,
+        "record_id": 2,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20372,
+        "record_id": 3,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20372,
+        "record_id": 3,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20372,
+        "record_id": 3,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20372,
+        "record_id": 3,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20372,
+        "record_id": 3,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20372,
+        "record_id": 3,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20372,
+        "record_id": 3,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20372,
+        "record_id": 3,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17014,
+        "record_id": 4,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17014,
+        "record_id": 4,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17014,
+        "record_id": 4,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17014,
+        "record_id": 4,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17014,
+        "record_id": 4,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17014,
+        "record_id": 4,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17014,
+        "record_id": 4,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17014,
+        "record_id": 4,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17448,
+        "record_id": 5,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17448,
+        "record_id": 5,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17448,
+        "record_id": 5,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17448,
+        "record_id": 5,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17448,
+        "record_id": 5,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17448,
+        "record_id": 5,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17448,
+        "record_id": 5,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17448,
+        "record_id": 5,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19005,
+        "record_id": 6,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19005,
+        "record_id": 6,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19005,
+        "record_id": 6,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19005,
+        "record_id": 6,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19005,
+        "record_id": 6,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19005,
+        "record_id": 6,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19005,
+        "record_id": 6,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19005,
+        "record_id": 6,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 16193,
+        "record_id": 7,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 16193,
+        "record_id": 7,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 16193,
+        "record_id": 7,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 16193,
+        "record_id": 7,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 16193,
+        "record_id": 7,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 16193,
+        "record_id": 7,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 16193,
+        "record_id": 7,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 16193,
+        "record_id": 7,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11275,
+        "record_id": 8,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11275,
+        "record_id": 8,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11275,
+        "record_id": 8,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11275,
+        "record_id": 8,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11275,
+        "record_id": 8,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11275,
+        "record_id": 8,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11275,
+        "record_id": 8,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11275,
+        "record_id": 8,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 18792,
+        "record_id": 9,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 18792,
+        "record_id": 9,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 18792,
+        "record_id": 9,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 18792,
+        "record_id": 9,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 18792,
+        "record_id": 9,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 18792,
+        "record_id": 9,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 18792,
+        "record_id": 9,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 18792,
+        "record_id": 9,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9456,
+        "record_id": 10,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9456,
+        "record_id": 10,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9456,
+        "record_id": 10,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9456,
+        "record_id": 10,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9456,
+        "record_id": 10,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9456,
+        "record_id": 10,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9456,
+        "record_id": 10,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9456,
+        "record_id": 10,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11243,
+        "record_id": 11,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11243,
+        "record_id": 11,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11243,
+        "record_id": 11,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11243,
+        "record_id": 11,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11243,
+        "record_id": 11,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11243,
+        "record_id": 11,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11243,
+        "record_id": 11,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11243,
+        "record_id": 11,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 12,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 12,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 12,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 12,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 12,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 12,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 12,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 12,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19953,
+        "record_id": 13,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19953,
+        "record_id": 13,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19953,
+        "record_id": 13,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19953,
+        "record_id": 13,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19953,
+        "record_id": 13,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19953,
+        "record_id": 13,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19953,
+        "record_id": 13,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19953,
+        "record_id": 13,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 12925,
+        "record_id": 14,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 12925,
+        "record_id": 14,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 12925,
+        "record_id": 14,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 12925,
+        "record_id": 14,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 12925,
+        "record_id": 14,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 12925,
+        "record_id": 14,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 12925,
+        "record_id": 14,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 12925,
+        "record_id": 14,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13375,
+        "record_id": 15,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13375,
+        "record_id": 15,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13375,
+        "record_id": 15,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13375,
+        "record_id": 15,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13375,
+        "record_id": 15,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13375,
+        "record_id": 15,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13375,
+        "record_id": 15,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13375,
+        "record_id": 15,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10999,
+        "record_id": 16,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10999,
+        "record_id": 16,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10999,
+        "record_id": 16,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10999,
+        "record_id": 16,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10999,
+        "record_id": 16,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10999,
+        "record_id": 16,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10999,
+        "record_id": 16,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10999,
+        "record_id": 16,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 17,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 17,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 17,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 17,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 17,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 17,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 17,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 17,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 18,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 18,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 18,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 18,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 18,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 18,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 18,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 18,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11116,
+        "record_id": 19,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11116,
+        "record_id": 19,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11116,
+        "record_id": 19,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11116,
+        "record_id": 19,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11116,
+        "record_id": 19,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11116,
+        "record_id": 19,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11116,
+        "record_id": 19,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11116,
+        "record_id": 19,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 20,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 20,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 20,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 20,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 20,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 20,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 20,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 20,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17102,
+        "record_id": 21,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17102,
+        "record_id": 21,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17102,
+        "record_id": 21,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17102,
+        "record_id": 21,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17102,
+        "record_id": 21,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17102,
+        "record_id": 21,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17102,
+        "record_id": 21,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 17102,
+        "record_id": 21,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20978,
+        "record_id": 22,
+        "label": "NDT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20978,
+        "record_id": 22,
+        "label": "NDT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20978,
+        "record_id": 22,
+        "label": "NDT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20978,
+        "record_id": 22,
+        "label": "NDT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20978,
+        "record_id": 22,
+        "label": "NDT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20978,
+        "record_id": 22,
+        "label": "NDT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20978,
+        "record_id": 22,
+        "label": "NDT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20978,
+        "record_id": 22,
+        "label": "NDT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 23,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 23,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 23,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 23,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 23,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 23,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 23,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 23,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9012,
+        "record_id": 24,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9012,
+        "record_id": 24,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9012,
+        "record_id": 24,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9012,
+        "record_id": 24,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9012,
+        "record_id": 24,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9012,
+        "record_id": 24,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9012,
+        "record_id": 24,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 9012,
+        "record_id": 24,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10962,
+        "record_id": 25,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10962,
+        "record_id": 25,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10962,
+        "record_id": 25,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10962,
+        "record_id": 25,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10962,
+        "record_id": 25,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10962,
+        "record_id": 25,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10962,
+        "record_id": 25,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10962,
+        "record_id": 25,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 26,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 26,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 26,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 26,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 26,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 26,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 26,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 26,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10316,
+        "record_id": 27,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10316,
+        "record_id": 27,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10316,
+        "record_id": 27,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10316,
+        "record_id": 27,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10316,
+        "record_id": 27,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10316,
+        "record_id": 27,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10316,
+        "record_id": 27,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 10316,
+        "record_id": 27,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 28,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 28,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 28,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 28,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 28,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 28,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 28,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 28,
+        "label": "NST_",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 14340,
+        "record_id": 29,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 14340,
+        "record_id": 29,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 14340,
+        "record_id": 29,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 14340,
+        "record_id": 29,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 14340,
+        "record_id": 29,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 14340,
+        "record_id": 29,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 14340,
+        "record_id": 29,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 14340,
+        "record_id": 29,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19053,
+        "record_id": 30,
+        "label": "LVH",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19053,
+        "record_id": 30,
+        "label": "LVH",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19053,
+        "record_id": 30,
+        "label": "LVH",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19053,
+        "record_id": 30,
+        "label": "LVH",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19053,
+        "record_id": 30,
+        "label": "LVH",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19053,
+        "record_id": 30,
+        "label": "LVH",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19053,
+        "record_id": 30,
+        "label": "LVH",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 19053,
+        "record_id": 30,
+        "label": "LVH",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15348,
+        "record_id": 31,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15348,
+        "record_id": 31,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15348,
+        "record_id": 31,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15348,
+        "record_id": 31,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15348,
+        "record_id": 31,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15348,
+        "record_id": 31,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15348,
+        "record_id": 31,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15348,
+        "record_id": 31,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11154,
+        "record_id": 32,
+        "label": "LPFB",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11154,
+        "record_id": 32,
+        "label": "LPFB",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11154,
+        "record_id": 32,
+        "label": "LPFB",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11154,
+        "record_id": 32,
+        "label": "LPFB",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11154,
+        "record_id": 32,
+        "label": "LPFB",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11154,
+        "record_id": 32,
+        "label": "LPFB",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11154,
+        "record_id": 32,
+        "label": "LPFB",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11154,
+        "record_id": 32,
+        "label": "LPFB",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20527,
+        "record_id": 33,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20527,
+        "record_id": 33,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20527,
+        "record_id": 33,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20527,
+        "record_id": 33,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20527,
+        "record_id": 33,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20527,
+        "record_id": 33,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20527,
+        "record_id": 33,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 20527,
+        "record_id": 33,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 34,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 34,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 34,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 34,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 34,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 34,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 34,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 34,
+        "label": "AFLT",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15539,
+        "record_id": 35,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15539,
+        "record_id": 35,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15539,
+        "record_id": 35,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15539,
+        "record_id": 35,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15539,
+        "record_id": 35,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15539,
+        "record_id": 35,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15539,
+        "record_id": 35,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 15539,
+        "record_id": 35,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 8787,
+        "record_id": 36,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 8787,
+        "record_id": 36,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 8787,
+        "record_id": 36,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 8787,
+        "record_id": 36,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 8787,
+        "record_id": 36,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 8787,
+        "record_id": 36,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 8787,
+        "record_id": 36,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 8787,
+        "record_id": 36,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 39,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 39,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 39,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 39,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 39,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 39,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 39,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 13619,
+        "record_id": 39,
+        "label": "IMI",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 200,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 200,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 200,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 200,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 200,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 200,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 200,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    },
+    {
+        "patient_id": 11031,
+        "record_id": 200,
+        "label": "NORM",
+        "sampling_rate": 100,
+        "leads": 12
+    }
+]

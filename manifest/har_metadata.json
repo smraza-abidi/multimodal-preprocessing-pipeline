@@ -1,0 +1,18 @@
+{
+    "datasets": [
+        "PAMAP2",
+        "WISDM"
+    ],
+    "sampling_rate": 20,
+    "window_size": 200,
+    "step_size": 100,
+    "channels": 6,
+    "label_map": {
+        "walking": 0,
+        "running": 1,
+        "sitting": 2,
+        "standing": 3
+    },
+    "num_pretrain_samples": 2374,
+    "num_supervised_samples": 594
+}
