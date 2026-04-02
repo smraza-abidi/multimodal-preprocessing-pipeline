@@ -132,8 +132,9 @@ if __name__ == "__main__":
 
     # Save Metadata (.JSON)
     import json
+    os.makedirs("manifest", exist_ok=True)
 
-    with open("data/processed/eeg_metadata.json", "w") as f:
+    with open("manifest/eeg_metadata.json", "w") as f:
          json.dump(meta_eeg, f, indent=4)
     
     # Save NumPy Files
