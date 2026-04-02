@@ -59,6 +59,14 @@ def main():
         check_array("ECG X", X_ecg)
         print("ECG labels:", np.unique(y_ecg))
 
+    # ---------------- mhealth ----------------
+    if check_file("data/processed/X_mhealth.npy"):
+        X_m = np.load("data/processed/X_mhealth.npy", allow_pickle=True)
+        y_m = np.load("data/processed/y_mhealth.npy", allow_pickle=True)
+
+        check_array("mHealth X", X_m)
+        print("mHealth labels:", np.unique(y_m))
+
 
     print("\n=== VALIDATION COMPLETE ===")
 
