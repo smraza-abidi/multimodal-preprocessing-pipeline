@@ -418,7 +418,7 @@ All the processed data and sample pack are available on the following link:
 
 
 
-Google drive link: https://drive.google.com/drive/folders/1c4U9SEiVBZB3Xj\_5rRNaerpH1yWj2q3p?usp=drive\_link
+Google drive link: https://drive.google.com/drive/folders/1c4U9SEiVBZB3Xj_5rRNaerpH1yWj2q3p?usp=sharing
 
 ###### 
 
